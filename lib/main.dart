@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/page/car_page.dart';
+import 'package:flutter_application_1/page/login_page.dart';
 
 void main() {
   runApp(const MyApp());
+
 }
 
 class MyApp extends StatelessWidget {
@@ -19,6 +21,11 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: const  CarPage(title: 'Japanese Domestic Market',),
+      initialRoute: '/loginpage',
+      routes: {
+        '/carpage':(context) => CarPage(title: 'japanese domestic market'),
+        '/loginpage':(context) => loginpage(),
+      }
     );
   }
 }

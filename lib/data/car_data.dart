@@ -30,6 +30,36 @@ class CarData {
     gambarCar: "assets/gambar/evo9.jpg",
     detailCar: "Mitsubishi Lancer adalah salah satu kendaraan unggulan Mitsubishi Motors sejak tahun 1970-an silam dan dikenal sebagai mobil sedan legendaris. Mobil ini telah terjual di seluruh penjuru dunia dalam jumlah lebih lebih dari 7 juta unit dan turut andil dalam membesarkan nama Mitsubishi di kancah industri otomotif dunia. ",
     ),
+
+     CarModel(
+    namaCar: "Mazda Rx-7",
+    gambarCar: "assets/gambar/rx7.jpg",
+    detailCar: "Mazda RX-7 adalah mobil sport yang diproduksi oleh Mazda tahun 1978 sampai 2002. RX-7 pada awalnya menggunakan mesin wankel rotari berkapasitas silinder 1.146 cc (69,9 cu in) dengan penggerak roda belakang. RX-7 menggantikan RX-3. RX-7 awalnya adalah mobil sport dengan lampu utama tersembunyi dan hanya tersedia dengan versi coupé 2 kursi. ",
+    ),
+
+     CarModel(
+    namaCar: "Mazda RX-8",
+    gambarCar: "assets/gambar/rx8.jpg",
+    detailCar: "The Mazda RX-8 is a sports car manufactured by Japanese automobile manufacturer Mazda between 2002 and 2012. It was first shown in 2001 at the North American International Auto Show. It is the successor to the RX-7[citation needed] and, like its predecessors in the RX range, it is powered by a rotary Wankel engine. The RX-8 was available for sale in North America from the 2003 model year.",
+    ),
+
+     CarModel(
+    namaCar: "Honda nsx",
+    gambarCar: "assets/gambar/nsx.jpg",
+    detailCar: "Honda NSX, dipasarkan di Amerika Utara sebagai Acura NSX, adalah mobil sport dua-kursi, mesin tengah dirakit oleh Honda/Acura. Asal-usul jejak NSX kembali ke 1984, dengan konsep HP-X (Honda Pininfarina eXperimental),[1] merupakan mobil sport bermesin 3.0   L V6 mesin tengah berpenggerak roda belakang . Honda berkomitmen untuk proyek tersebut, dengan maksud untuk memenuhi atau melampaui kinerja jajaran Ferrari bermesin V8, sambil menawarkan keandalan dan harga yang lebih rendah.",
+    ),
+
+     CarModel(
+    namaCar: "Honda Civic Type R",
+    gambarCar: "assets/gambar/civic.jpg",
+    detailCar: "Honda Civic (Bahasa Jepang: ホンダ・シビック, Hepburn: Honda Shibikku) adalah mobil yang diproduksi oleh Honda Motor Company. Pertama kali diperkenalkan pada Juli 1972 sebagai coupé 2 pintu, diikuti dengan versi hatchback 3 pintu pada September tahun itu juga. Mobil ini menggunakan sistem penggerak roda depan, di mana mesinnya diletakkan secara melintang, sehingga dapat menyediakan ruang interior yang cukup luas walaupun dimensi mobil terbilang kecil. ",
+    ),
+
+     CarModel(
+    namaCar: "Nissan 350Z",
+    gambarCar: "assets/gambar/nissan.jpg",
+    detailCar: "Nissan 350Z (atau Nissan Fairlady Z Z33) adalah mobil sport 2 pintu yang diproduksi Nissan tahun 2002 sampai 2009. 350Z awalnya hanya dijual sebagai coupe, tetapi pada tahun 2003 versi roadster juga diluncuran. Nissan 350Z digantikan oleh 370Z. ",
+    ),
   ];
 
   //get all data
